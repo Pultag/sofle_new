@@ -31,7 +31,7 @@
         new_macro: new_macro {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&none &kp LS(V) &kp A &kp N &kp G &kp LS(H) &kp U &kp Y &kp N &kp H &kp N1 &kp N9 &kp N9 &kp N5 &kp GT &kp GT &kp LT &kp LT>;
+            bindings = <&none &kp N1 &kp N9 &kp N9 &kp N5 &kp LS(T) &kp I &kp E &kp N &kp LS(V) &kp A &kp N &kp G &kp GT &kp GT &kp LT &kp LT>;
             label = "NEW_MACRO";
         };
     };
