@@ -76,7 +76,7 @@
 &kp ESCAPE  &none   &none         &kp UP_ARROW    &none      &kp KP_ASTERISK                                  &kp KP_PLUS   &kp KP_NUMBER_7  &kp KP_N8  &kp KP_N9   &kp MINUS         &kp EQUAL
 &kp TAB     &none   &kp LEFT      &kp DOWN_ARROW  &kp RIGHT  &kp KP_DIVIDE                                    &kp KP_MINUS  &kp KP_N4        &kp KP_N5  &kp KP_N6   &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &kp LCTRL   &kp Z   &kp X         &kp C           &kp V      &kp PRINTSCREEN  &kp C_MUTE    &kp C_PLAY_PAUSE  &kp LBKT      &kp KP_N1        &kp KP_N2  &kp KP_N3   &kp SCROLLLOCK    &kp PAUSE_BREAK
-                    &kp LEFT_WIN  &kp LEFT_ALT    &trans     &kp LEFT_SHIFT   &kp ENTER     &kp BACKSPACE     &kp SPACE     &kp INS          &kp KP_N0  &kp KP_DOT
+                    &studio_unlock  &kp LEFT_ALT    &trans     &kp LEFT_SHIFT   &kp ENTER     &kp BACKSPACE     &kp SPACE     &kp INS          &kp KP_N0  &kp KP_DOT
             >;
 
             sensor-bindings =
